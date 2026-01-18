@@ -3,16 +3,13 @@ set -euo pipefail
 
 PROJECT_DIR="2-new_project"
 PROJECT_NAME="NewProject"
+PROGRAM_FILE="$PROJECT_DIR/$PROJECT_NAME/Program.cs"
 
-# Create the project directory
 mkdir -p "$PROJECT_DIR"
-cd "$PROJECT_DIR"
+dotnet new console -n "$PROJECT_NAME" -o "$PROJECT_DIR/$PROJECT_NAME"
 
-# Initialize a new C# console project
-dotnet new console -n "$PROJECT_NAME"
+# Replace "Hello, World!" with "Hello World!"
+sed -i 's/Hello, World!/Hello World!/' "$PROGRAM_FILE"
 
-# Build the project
-dotnet build "$PROJECT_NAME"
-
-# Run the project
-dotnet run --project "$PROJECT_NAME"
+dotnet build "$PROJECT_DIR/$PROJECT_NAME"
+dotnet run --project "$PROJECT_DIR/$PROJECT_NAME"
