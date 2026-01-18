@@ -4,18 +4,15 @@ set -euo pipefail
 PROJECT_DIR="2-new_project"
 PROJECT_NAME="NewProject"
 
-# Create project directory
+# Create the project directory
 mkdir -p "$PROJECT_DIR"
 cd "$PROJECT_DIR"
 
 # Initialize a new C# console project
-dotnet new console -n "$PROJECT_NAME" -f net7.0
-
-# Move into the project folder
-cd "$PROJECT_NAME"
+dotnet new console -n "$PROJECT_NAME"
 
 # Build the project
-dotnet build
+dotnet build "$PROJECT_NAME"
 
 # Run the project
-dotnet run
+dotnet run --project "$PROJECT_NAME"
