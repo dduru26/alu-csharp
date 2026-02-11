@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net7.0/2-replace_element.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/refint/2-replace_element.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/ref/2-replace_element.dll

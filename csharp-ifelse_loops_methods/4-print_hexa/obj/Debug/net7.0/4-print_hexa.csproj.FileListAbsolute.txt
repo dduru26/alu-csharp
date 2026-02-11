@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/net7.0/4-print_hexa.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/refint/4-print_hexa.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/4-print_hexa.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/net7.0/ref/4-print_hexa.dll

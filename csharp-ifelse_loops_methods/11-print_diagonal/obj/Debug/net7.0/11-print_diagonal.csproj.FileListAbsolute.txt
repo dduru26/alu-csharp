@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net7.0/11-print_diagonal
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net7.0/11-print_diagonal.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net7.0/11-print_diagonal.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net7.0/11-print_diagonal.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net7.0/11-print_diagonal.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/refint/11-print_diagonal.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/11-print_diagonal.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net7.0/ref/11-print_diagonal.dll

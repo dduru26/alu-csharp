@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\refint\12-linkedlist_insert.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\ref\12-linkedlist_insert.dll

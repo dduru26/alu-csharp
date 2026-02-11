@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/bin/Debug/net7.0/7-concat.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/refint/7-concat.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/7-concat.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/7-concat/obj/Debug/net7.0/ref/7-concat.dll

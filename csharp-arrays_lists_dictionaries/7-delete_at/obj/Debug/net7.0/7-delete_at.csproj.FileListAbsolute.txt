@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net7.0/7-delete_at.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/refint/7-delete_at.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/7-delete_at.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net7.0/ref/7-delete_at.dll

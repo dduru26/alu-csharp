@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net7.0/2-print_alphabet
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net7.0/2-print_alphabet.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net7.0/2-print_alphabet.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net7.0/2-print_alphabet.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/net7.0/2-print_alphabet.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/refint/2-print_alphabet.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/2-print_alphabet.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/net7.0/ref/2-print_alphabet.dll

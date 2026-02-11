@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sm4mSBv77pE=",
+  "success": true,
+  "projectFilePath": "/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/12-fizzbuzz.csproj",
+  "expectedPackageFiles": [
+    "/Users/kidflamez/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/kidflamez/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/kidflamez/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

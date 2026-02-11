@@ -1,15 +1,10 @@
 #!/usr/bin/env bash
-set -euo pipefail
 
-PROJECT_DIR="1-new_project"
-PROJECT_NAME="NewProject"
+# Initialize a new C# console project in a folder named 1-new_project
+dotnet new console -o 1-new_project
 
-# Create the project directory
-mkdir -p "$PROJECT_DIR"
-cd "$PROJECT_DIR"
-
-# Initialize a new C# console project
-dotnet new console -n "$PROJECT_NAME"
+# Modify the .csproj file to target .NET 7.0
+sed -i 's/<TargetFramework>.*<\/TargetFramework>/<TargetFramework>net7.0<\/TargetFramework>/g' 1-new_project/1-new_project.csproj
 
 # Build the project
-dotnet build "$PROJECT_NAME"
+dotnet build 1-new_project

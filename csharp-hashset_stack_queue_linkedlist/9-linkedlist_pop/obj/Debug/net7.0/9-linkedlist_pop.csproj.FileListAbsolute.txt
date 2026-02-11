@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\refint\9-linkedlist_pop.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\ref\9-linkedlist_pop.dll

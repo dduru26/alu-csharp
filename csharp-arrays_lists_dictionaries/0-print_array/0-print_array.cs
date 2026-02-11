@@ -2,6 +2,7 @@ using System;
 
 class Array
 {
+
     public static int[] CreatePrint(int size)
     {
         if (size < 0)
@@ -16,18 +17,17 @@ class Array
             return new int[0];
         }
 
-        int[] arr = new int[size];
+        int[] array = new int[size];
 
         for (int i = 0; i < size; i++)
         {
-            arr[i] = i;
-            Console.Write(i);
-
+            array[i] = i;
             if (i < size - 1)
-                Console.Write(" ");
+                Console.Write(i + " ");
+            else
+                Console.WriteLine(i);
         }
 
-        Console.WriteLine();
-        return arr;
+        return array;
     }
 }

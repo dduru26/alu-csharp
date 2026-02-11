@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-class List
+public class List
 {
+
     public static int MaxInteger(List<int> myList)
     {
         if (myList == null || myList.Count == 0)
@@ -16,7 +17,9 @@ class List
         for (int i = 1; i < myList.Count; i++)
         {
             if (myList[i] > max)
+            {
                 max = myList[i];
+            }
         }
 
         return max;

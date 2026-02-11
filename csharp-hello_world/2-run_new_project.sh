@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
-set -euo pipefail
 
-PROJECT_DIR="2-new_project"
-PROJECT_NAME="NewProject"
-PROGRAM_FILE="$PROJECT_DIR/$PROJECT_NAME/Program.cs"
+# Initialize a new C# console project in a folder named 2-new_project
+dotnet new console -o 2-new_project
 
-mkdir -p "$PROJECT_DIR"
-dotnet new console -n "$PROJECT_NAME" -o "$PROJECT_DIR/$PROJECT_NAME"
+# Modify the .csproj file to target .NET 7.0
+sed -i 's/<TargetFramework>.*<\/TargetFramework>/<TargetFramework>net7.0<\/TargetFramework>/g' 2-new_project/2-new_project.csproj
 
-# Replace "Hello, World!" with "Hello World!"
-sed -i 's/Hello, World!/Hello World!/' "$PROGRAM_FILE"
+# Modify Program.cs to output "Hello World!" instead of "Hello, World!"
+sed -i 's/Console.WriteLine("Hello, World!");/Console.WriteLine("Hello World!");/' 2-new_project/Program.cs
 
-dotnet build "$PROJECT_DIR/$PROJECT_NAME"
-dotnet run --project "$PROJECT_DIR/$PROJECT_NAME"
+# Build the project
+dotnet build 2-new_project
+
+# Run the project
+dotnet run --project 2-new_project

@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/bin/Debug/net7.0/8-print_variables.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/refint/8-print_variables.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/8-print_variables.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/8-print_variables/obj/Debug/net7.0/ref/8-print_variables.dll

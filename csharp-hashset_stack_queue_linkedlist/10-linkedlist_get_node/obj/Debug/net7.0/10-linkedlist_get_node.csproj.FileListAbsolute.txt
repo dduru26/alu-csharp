@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net7.0\10-linkedlist_get_node.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net7.0\10-linkedlist_get_node.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net7.0\10-linkedlist_get_node.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net7.0\10-linkedlist_get_node.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net7.0\10-linkedlist_get_node.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\refint\10-linkedlist_get_node.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\10-linkedlist_get_node.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net7.0\ref\10-linkedlist_get_node.dll

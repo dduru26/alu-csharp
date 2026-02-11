@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\refint\1-common_elements.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\ref\1-common_elements.dll

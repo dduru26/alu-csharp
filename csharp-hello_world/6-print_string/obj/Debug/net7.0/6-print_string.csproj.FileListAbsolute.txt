@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/bin/Debug/net7.0/6-print_string.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/refint/6-print_string.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/6-print_string.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-hello_world/6-print_string/obj/Debug/net7.0/ref/6-print_string.dll

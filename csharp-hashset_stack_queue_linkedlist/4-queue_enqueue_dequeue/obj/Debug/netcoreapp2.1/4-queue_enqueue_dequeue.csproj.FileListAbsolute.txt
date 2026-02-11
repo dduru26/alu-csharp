@@ -1,0 +1,14 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.runtimeconfig.dev.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.csproj.AssemblyReference.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.genruntimeconfig.cache

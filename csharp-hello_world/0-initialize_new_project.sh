@@ -1,4 +1,4 @@
-#!/usr/bin/env bash 
-dotnet new console -n "0-new_project" -f net7.0
-dotnet new console -n "0-new_project/0-new_project.csproj"
-dotnet new console -n "0-new_project/Program.cs"
+#!/usr/bin/env bash
+
+# Initialize a new C# console project in a folder named 0-new_project
+dotnet new console -o 0-new_project

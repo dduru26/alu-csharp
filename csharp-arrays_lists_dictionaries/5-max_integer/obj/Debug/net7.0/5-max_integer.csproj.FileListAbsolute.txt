@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/refint/5-max_integer.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/ref/5-max_integer.dll

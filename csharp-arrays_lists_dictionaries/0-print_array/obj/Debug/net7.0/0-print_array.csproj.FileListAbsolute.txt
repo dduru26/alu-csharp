@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/refint/0-print_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/ref/0-print_array.dll

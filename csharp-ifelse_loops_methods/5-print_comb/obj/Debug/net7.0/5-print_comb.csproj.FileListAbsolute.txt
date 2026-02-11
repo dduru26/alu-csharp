@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/net7.0/5-print_comb.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/refint/5-print_comb.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/5-print_comb.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/net7.0/ref/5-print_comb.dll

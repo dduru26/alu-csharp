@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/refint/14-rectangular_array.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/ref/14-rectangular_array.dll

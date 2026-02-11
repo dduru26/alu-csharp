@@ -1,0 +1,15 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net7.0/9-add_key_value
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net7.0/9-add_key_value.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net7.0/9-add_key_value.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net7.0/9-add_key_value.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/net7.0/9-add_key_value.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/refint/9-add_key_value.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/9-add_key_value.genruntimeconfig.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/net7.0/ref/9-add_key_value.dll

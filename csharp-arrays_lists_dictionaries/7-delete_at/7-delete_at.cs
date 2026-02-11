@@ -1,22 +1,34 @@
 using System;
 using System.Collections.Generic;
 
-class List
+public class List
 {
+
     public static List<int> DeleteAt(List<int> myList, int index)
     {
-        if (index < 0 || index >= myList.Count)
+        if (myList == null || index < 0 || index >= myList.Count)
         {
             Console.WriteLine("Index is out of range");
             return myList;
         }
 
-        for (int i = index; i < myList.Count - 1; i++)
+        List<int> newList = new List<int>();
+
+        for (int i = 0; i < myList.Count; i++)
         {
-            myList[i] = myList[i + 1];
+            if (i != index)
+            {
+                newList.Add(myList[i]);
+            }
         }
 
-        myList.RemoveAt(myList.Count - 1);
+        myList.Clear();
+
+        foreach (int item in newList)
+        {
+            myList.Add(item);
+        }
+
         return myList;
     }
 }

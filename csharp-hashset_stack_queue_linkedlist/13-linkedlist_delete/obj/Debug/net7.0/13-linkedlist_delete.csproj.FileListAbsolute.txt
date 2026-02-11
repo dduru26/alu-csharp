@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net7.0\13-linkedlist_delete.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net7.0\13-linkedlist_delete.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net7.0\13-linkedlist_delete.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net7.0\13-linkedlist_delete.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net7.0\13-linkedlist_delete.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\refint\13-linkedlist_delete.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\13-linkedlist_delete.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net7.0\ref\13-linkedlist_delete.dll
