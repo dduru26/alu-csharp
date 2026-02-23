@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\refint\0-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\ref\0-dog.dll

@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\bin\Debug\net7.0\3-dog.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\refint\3-dog.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\3-dog.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-structs_enums\3-dog\obj\Debug\net7.0\ref\3-dog.dll

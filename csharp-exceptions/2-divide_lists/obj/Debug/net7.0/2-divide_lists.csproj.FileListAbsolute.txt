@@ -1,0 +1,15 @@
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.exe
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.deps.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.runtimeconfig.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfoInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfo.cs
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.csproj.CoreCompileInputs.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.sourcelink.json
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\refint\2-divide_lists.dll
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.pdb
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.genruntimeconfig.cache
+D:\C-PROGAMING\INTRANET WORK\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\ref\2-divide_lists.dll
