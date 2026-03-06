@@ -1,0 +1,12 @@
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.sourcelink.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/Users/kidflamez/AR_VR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.pdb
