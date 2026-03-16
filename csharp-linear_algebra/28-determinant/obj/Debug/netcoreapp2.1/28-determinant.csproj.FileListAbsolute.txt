@@ -1,0 +1,10 @@
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\bin\Debug\netcoreapp2.1\28-determinant.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\bin\Debug\netcoreapp2.1\28-determinant.dll
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\bin\Debug\netcoreapp2.1\28-determinant.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.dll
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\28-determinant\obj\Debug\netcoreapp2.1\28-determinant.pdb

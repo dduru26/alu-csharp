@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>33-inverse_2D</name>
+    </assembly>
+    <members>
+        <member name="M:MatrixMath.Inverse2D(System.Double[0:,0:])">
+            <summary>
+            Calculates the inverse of a 2x2 matrix.
+            </summary>
+            <param name="matrix">The 2x2 matrix to invert.</param>
+            <returns>
+            The inverse of the matrix.
+            If the matrix is not 2x2 or non-invertible, returns a matrix containing -1.
+            </returns>
+        </member>
+    </members>
+</doc>

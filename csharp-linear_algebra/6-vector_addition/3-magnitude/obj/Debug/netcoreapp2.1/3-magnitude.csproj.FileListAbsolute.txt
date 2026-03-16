@@ -1,0 +1,10 @@
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.dll
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.dll
+c:\Users\user\alu-csharp\alu-csharp-1\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.pdb
